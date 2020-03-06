@@ -1,5 +1,5 @@
 # RcssLogExtractor 
-The RcssLogExtractor is a tool developed to help RoboCup Simulation Soccer 2D developers, giving a better format file of the rcssserver logs where it can be made game analyzes. This extractor gets `.rcg` files and transform to `.csv` files with all informations of the simulation 2d games, provides by the rcssserver. All features extracted are listed here:
+The RcssLogExtractor is a tool developed to help RoboCup Soccer Simulation 2D developers, giving a better format file of the rcssserver logs where it can be made game analyzes. This extractor gets `.rcg` files and transform to `.csv` files with all informations of the simulation 2d games, provides by the rcssserver. All features extracted are listed here:
 
 * **Cycles**: The game cycles.
 * **Play Mode**: The play mode per cycle.
